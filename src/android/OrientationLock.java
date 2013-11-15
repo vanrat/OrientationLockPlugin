@@ -1,11 +1,11 @@
-package com.happy.orientationlockplugin;
+package com.happy.plugins;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 
 import android.content.pm.ActivityInfo;
 
-import org.apache.cordova.api.*;
+import org.apache.cordova.*;
 
 /**
  * 
