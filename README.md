@@ -28,4 +28,4 @@ Once unlocked, you can track orientation changes with the regular `orientationch
 ## Adding the Plugin to your project ##
 
 via following CLI 
-    cordova plugin add https://github.com/vanrat/OrientationLockPlugin
+    `cordova plugin add https://github.com/vanrat/OrientationLockPlugin`
